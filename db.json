@@ -1,0 +1,52 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Deluxe Suite",
+      "type": "Deluxe",
+      "price": 200
+    },
+    {
+      "id": "2",
+      "name": "Standard Room",
+      "type": "Standard",
+      "price": 100
+    }
+  ],
+  "reservations": [
+    {
+      "id": "b75c",
+      "room": "2",
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23"
+    },
+    {
+      "id": "5c98",
+      "room": "2",
+      "checkIn": "2024-04-22",
+      "checkOut": "2025-04-23"
+    },
+    {
+      "id": "13cb",
+      "room": "2",
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23"
+    }
+  ],
+  "users": [
+    {
+      "id": "0757",
+      "username": "1124537258",
+      "email": "gohelpalak14@gmail.com",
+      "password": "123",
+      "cpass": "123"
+    },
+    {
+      "id": "6e8d",
+      "username": "palak",
+      "email": "palak@gmail.com",
+      "password": "1234",
+      "cpass": "1234"
+    }
+  ]
+}
